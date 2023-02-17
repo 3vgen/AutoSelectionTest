@@ -1,0 +1,215 @@
+.Auto{
+    position: absolute;
+    padding-left: 280px;
+}
+
+.Yaj{
+    width: 130px;
+    height: 35px;
+    margin-left: 460px;
+    margin-top: 10px;
+    position: absolute;
+    background-color: coral;
+    border-radius: 30px;
+}
+.Jto{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.Otz{
+    width: 130px;
+    height: 35px;
+    margin-left: 620px;
+    margin-top: 10px;
+    position: absolute;
+    background-color: coral;
+    border-radius: 30px;
+}
+.OtzT{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 36px;
+}
+.Ysl{
+    width: 130px;
+    height: 35px;
+    margin-left: 780px;
+    margin-top: 10px;
+    position: absolute;
+    background-color: coral;
+    border-radius: 30px;
+}
+.YslT{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 36px;
+}
+.Nomer{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 10px;
+    height: 35px;
+    width: 250px;
+    background-color: coral;
+    border-radius: 30px;
+}
+
+.NomerТ{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.Chap{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 110px;
+    height: 55px;
+    width: 380px;
+    background-color: coral;
+    border-radius: 30px;
+}
+.ChapT{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 52px;
+    
+}
+.text{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 492px;
+}
+.text1{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 342px;
+}
+.Photo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-left: 200px;
+    margin-top: 270px;
+}
+.Yaj1{
+    width: 130px;
+    height: 35px;
+    margin-left: 460px;
+    margin-top: 10px;
+    position: absolute;
+    background-color: rgb(91, 114, 232);
+    border-radius: 30px;
+}
+.ChapT1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 52px;
+    
+}
+.Chap1{
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 110px;
+    height: 55px;
+    width: 680px;
+    background-color: coral;
+    border-radius: 30px;
+}
+.textN{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+}
+.text1N{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 100px;
+    color: white;
+}
+.Kus{
+    position: absolute;
+    width: 1442px;
+    height: 1100px;
+    background-color: rgb(3, 3, 89);
+    margin-top: 165px;
+    margin-left: -9px;
+}
+.Kkk{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.Kkk1{
+    margin-top: -225px;
+    margin-left: 280px;
+}
+.Kkk2{
+    margin-top: -225px;
+    margin-left: 280px;
+}
+.Kkkn{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.Kkkn1{
+    position: absolute;
+    margin-top: -215px;
+    margin-left: 279px;
+}
+.Kkkn2{
+    position: absolute;
+    margin-top: -215px;
+    margin-left: 285px;
+}
+.Kkkn3{
+    margin-left: 100px;
+    margin-top: 23px;
+}
+.Kkkn4{
+    margin-left: 381px;
+    margin-top: -213px;
+}
+.Kkkn5{
+    margin-left:666px;
+    margin-top: -213px;
+}
+.MaVer{
+    margin-left: 300px;
+    margin-top: -800px;
+}
+
+
+
+.YslN{
+    width: 130px;
+    height: 35px;
+    margin-left: 780px;
+    margin-top: 10px;
+    position: absolute;
+    background-color: rgb(91, 114, 232);
+    border-radius: 30px;
+}
+.Zal{
+    position: absolute;
+    width: 1442px;
+    height: 930px;
+    background-color: rgb(3, 3, 89);
+    margin-top: 165px;
+    margin-left: -9px;
+}
+.Raz{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.Raz2{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 60px;
+}
+.Raz3{
+    position: absolute;
+    margin-left: 960px;
+    margin-top: 60px;
+}
